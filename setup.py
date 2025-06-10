@@ -1,0 +1,5 @@
+appName = input("")
+appSource = input("")
+appVersion = input("")
+appIcon = input("")
+makeExecutable = input("")
